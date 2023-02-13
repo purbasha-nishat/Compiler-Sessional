@@ -1,0 +1,5 @@
+Error at line 6: Non-Integer operand on modulus operator 
+
+Error at line 7: Non-Integer operand on modulus operator 
+
+Total error: 2
